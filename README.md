@@ -9,7 +9,7 @@ This project creates a Research Assistant Agent using the Groq API and Streamlit
 *   Easy deployment using `requirements.txt` and Cloudflared for tunneling.
 
 ## Functionality of the Application
-You can check the functionality of this model by clicking the drive link below:
+You can check the functionality of this model by clicking the drive's link below:
 https://drive.google.com/file/d/1w8SXvmVBcHom4NIX7Vo6ekxl0DwIcRAw/view?usp=drive_link 
 
 Link to the Web Application:
