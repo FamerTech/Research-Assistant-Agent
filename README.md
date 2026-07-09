@@ -13,7 +13,7 @@ You can check the functionality of this model by clicking the drive's link below
 https://drive.google.com/file/d/1w8SXvmVBcHom4NIX7Vo6ekxl0DwIcRAw/view?usp=drive_link 
 
 Link to the Web Application:
-https://hat-united-advisors-shaft.trycloudflare.com 
+https://researchaiassistant.streamlit.app/
 
 ## Technologies Used
 *   Python
